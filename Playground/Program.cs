@@ -11,8 +11,8 @@ namespace Playground
         
         static void Main(string[] args)
         {
-            SelfDividingNumbers self = new SelfDividingNumbers();
-            Console.WriteLine(string.Join( ", ", self.isSelfDividing(1, 22).ToArray()));
+            NextGreaterElement nge = new NextGreaterElement();
+            Console.WriteLine(string.Join( ", ", nge.nge(new int[]{4, 1, 2}, new int[]{1, 3, 4, 2})));
             Console.ReadKey();
 
             
