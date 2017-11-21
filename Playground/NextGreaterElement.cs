@@ -22,7 +22,7 @@ namespace Playground
             foreach(int i in findNums)
             {
                 int compare = -1;
-                for (int j = index; j < nums.Length; j++ )
+                for (int j = Array.IndexOf(nums, i); j < nums.Length; j++ )
                 {
                     if (nums[j] > i) { compare = nums[j]; output[index] = compare; break; }
                 }
