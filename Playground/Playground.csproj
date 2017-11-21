@@ -60,12 +60,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ComplementaryNumber.cs" />
+    <Compile Include="FizzBuzz.cs" />
     <Compile Include="HammingDistanceInt.cs" />
     <Compile Include="MergeBinaryTree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReshapeMatrix.cs" />
     <Compile Include="ReverseInPosition.cs" />
     <Compile Include="RobotCircle.cs" />
+    <Compile Include="SelfDividingNumbers.cs" />
     <Compile Include="SortArrayPairs.cs" />
   </ItemGroup>
   <ItemGroup>

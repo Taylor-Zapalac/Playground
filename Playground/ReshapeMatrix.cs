@@ -15,7 +15,7 @@ namespace Playground
          * If the 'reshape' operation with given parameters is possible and legal, output the new reshaped matrix; Otherwise, output the original matrix.
          * */
 
-        public int[,] ReshapeMatrix(int[,] nums, int r, int c)
+        public int[,] reshapeTheMatrix(int[,] nums, int r, int c)
         {
             int[,] shapedMatrix = new int[r, c];
 

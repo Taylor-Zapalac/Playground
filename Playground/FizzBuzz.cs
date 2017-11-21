@@ -17,7 +17,7 @@ namespace Playground
          */
 
 
-        public IList<string> FizzBuzz(int n)
+        public IList<string> doTheBuzz(int n)
         {
             List<String> output = new List<String>();
             String temp = "";
