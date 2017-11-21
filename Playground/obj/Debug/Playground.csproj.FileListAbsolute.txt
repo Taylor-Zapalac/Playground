@@ -1,0 +1,6 @@
+c:\users\zapalac\documents\visual studio 2013\Projects\Playground\Playground\bin\Debug\Playground.exe.config
+c:\users\zapalac\documents\visual studio 2013\Projects\Playground\Playground\bin\Debug\Playground.exe
+c:\users\zapalac\documents\visual studio 2013\Projects\Playground\Playground\bin\Debug\Playground.pdb
+c:\users\zapalac\documents\visual studio 2013\Projects\Playground\Playground\obj\Debug\Playground.csprojResolveAssemblyReference.cache
+c:\users\zapalac\documents\visual studio 2013\Projects\Playground\Playground\obj\Debug\Playground.exe
+c:\users\zapalac\documents\visual studio 2013\Projects\Playground\Playground\obj\Debug\Playground.pdb
