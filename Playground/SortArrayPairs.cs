@@ -8,7 +8,7 @@ namespace Playground
 {
     /// <summary>
     /// Takes in array of ints.
-    /// SOrts, then pairs  them, getting the min value of pair
+    /// Sorts, then pairs  them, getting the min value of pair
     /// Adds up the mins to a resulting total.
     /// </summary>
     class SumArrayPairs

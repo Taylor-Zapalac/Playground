@@ -6,12 +6,16 @@ using System.Threading.Tasks;
 
 namespace Playground
 {
-    /// <summary>
-    /// Given a series of commands as UDLR characters(Up, Down, Left, Right)
-    /// See if it makes a circle... aka end up in the same spot.
-    /// </summary>
     class RobotCircle
     {
+
+        /*
+         * 
+         * Initially, there is a Robot at position (0, 0). Given a sequence of its moves, judge if this robot makes a circle, which means it moves back to the original place.
+         * The move sequence is represented by a string. And each move is represent by a character.
+         * The valid robot moves are R (Right), L (Left), U (Up) and D (down). The output should be true or false representing whether the robot makes a circle.
+         */
+
         public bool didHeDoACircle(String moves)
         {
             int x = 0;
